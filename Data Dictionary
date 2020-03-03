@@ -1,0 +1,9 @@
+gvkey = 6-digit Firm Identifier
+datadate =	fiscal year end
+pure_b2b =	Indicator function: Only in B2B (1) - otherwise(0)
+Sales	Sales =  in Millions of Dollars
+xad = 	Advertising expenditure in millions of dollars
+xrd =	R&D expenditure in millions of dollars 
+fmsize_at =	Natural log of the book value of total assets
+mksh2 = "Ratio of firm’s overall sales revenue to the sales revenue of all firms in the same 2-digit SIC code industry
+"
